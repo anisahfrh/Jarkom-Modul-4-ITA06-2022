@@ -74,6 +74,10 @@ Sebagai contoh, pada Router The Order. The order terhubung dengan router The Min
 ![image](https://user-images.githubusercontent.com/76768695/204095124-5f6e104e-d228-4a94-8fc3-7235b1050251.png)
  
 ### Pembagian subnet
+- Subnettin
+
+![image](https://user-images.githubusercontent.com/76768695/204096216-f3b28a8d-8c7e-4651-b793-86946d8fd28b.png)
+
 - Langkah 1
 
 ![SUBNETTIN-I-Gambar drawio - Copy](https://user-images.githubusercontent.com/76768695/204093759-863ceaa1-2ae1-4b85-8e40-bf55d2c755d5.png)
