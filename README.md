@@ -7,7 +7,7 @@
 ---
 ## Topologi CPT
 
-![cpt](https://user-images.githubusercontent.com/76768695/204092218-b259aaee-7edc-4978-bb41-aa748d3cc4e2.PNG)
+![image](https://user-images.githubusercontent.com/76768695/204092344-2c3f3da0-822a-43c8-8ee6-4e5bae5b42f4.png)
 
 ## VLSM
 Pertama-tama, kami membagi topologi kedalam beberapa bagian subnet
